@@ -1,20 +1,26 @@
-                   Purpose of this project 
+                   ## Purpose of this project 
                    =======================
 
-#Refactoring the code for an existing webpage by adding semantic HTML elements and eliminating non-semantic elements which define nothing about its content. Our goal is to make this page more comprehensible by better defining the sections and sequential lay out of the pages.This will have a better User experience and ADA-compliant
+Refactoring the code for an existing webpage by adding semantic HTML elements and eliminating non-semantic elements which define nothing about its content. Our goal is to make this page more comprehensible by better defining the sections and sequential lay out of the pages.This will have a better User experience and ADA-compliant
 
-             Semantic HTML Elements Used and Meaning
+             ## Semantic HTML Elements Used and Meaning
              ========================================
-* Nav    The element defines a set of navigation links.
-* Section The element defines a section in a document.
-* Article  An Element specifies independent, self-contained content.
-* Alt      Specifies an alternate text for an area, if the image cannot be displayed .        
-* Aside     element defines some content aside (Sidebar)
-* Footer    The element defines a footer for a document or section.
+* Nav    
+The element defines a set of navigation links.
+* Section
+The element defines a section in a document.
+* Article  
+An Element specifies independent, self-contained content.
+* Alt      
+Specifies an alternate text for an area, if the image cannot be displayed .    
+* Aside     
+element defines some content aside (Sidebar)
+* Footer    
+The element defines a footer for a document or section.
 
                                
-                            Examples
-                            =========
+                            ## Examples
+                            ============
 
 
 html
@@ -33,7 +39,7 @@ html
             </ul>
         </nav>
  ```       
-                              Links
-                            =========  
+                        ## Links
+                         =========  
 My favorite search engine is [ Google ] (https://www.google.com/)
 
