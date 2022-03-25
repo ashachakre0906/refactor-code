@@ -1,24 +1,23 @@
+## Title of the project
+Code Refactor
 ## Purpose of this project
+Our goal is to make this web page more comprehensible by better defining the sections and sequential lay out of the pages.Refactoring the code for an existing webpage by adding semantic HTML elements and eliminating non-semantic elements which defines no meaningful content.This will have a better User experience and ADA-compliant.
 
-Refactoring the code for an existing webpage by adding semantic HTML elements and eliminating non-semantic elements which define nothing about its content. Our goal is to make this page more comprehensible by better defining the sections and sequential lay out of the pages.This will have a better User experience and ADA-compliant
-
-## Semantic HTML Elements Used and Meaning
-
-- Nav  
+## Semantic HTML Elements used and meaning
+- nav  
   The element defines a set of navigation links.
-- Section
+- section
   The element defines a section in a document.
-- Article  
+- article  
   An Element specifies independent, self-contained content.
-- Alt  
+- alt  
   Specifies an alternate text for an area, if the image cannot be displayed .
-- Aside  
+- aside  
   Element defines some content aside (Sidebar)
-- Footer  
+- footer  
   The element defines a footer for a document or section.
 
-## See the below example from the code
-
+## See the below example
 html
 ```
 <nav>
@@ -43,9 +42,9 @@ html
     </p>
 </article>  
 ```
-
 ## Links  
 My favorite search engine is [ Google ] (https://www.google.com/)
+
 ## License
 MIT License
 
