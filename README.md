@@ -1,21 +1,26 @@
-## Purpose of this project 
+## Purpose of this project
+
 Refactoring the code for an existing webpage by adding semantic HTML elements and eliminating non-semantic elements which define nothing about its content. Our goal is to make this page more comprehensible by better defining the sections and sequential lay out of the pages.This will have a better User experience and ADA-compliant
+
 ## Semantic HTML Elements Used and Meaning
-* Nav    
-The element defines a set of navigation links.
-* Section
-The element defines a section in a document.
-* Article  
-An Element specifies independent, self-contained content.
-* Alt      
-Specifies an alternate text for an area, if the image cannot be displayed .    
-* Aside     
-Element defines some content aside (Sidebar)
-* Footer    
-The element defines a footer for a document or section.
-## Examples
-html                       
-```     
+
+- Nav  
+  The element defines a set of navigation links.
+- Section
+  The element defines a section in a document.
+- Article  
+  An Element specifies independent, self-contained content.
+- Alt  
+  Specifies an alternate text for an area, if the image cannot be displayed .
+- Aside  
+  Element defines some content aside (Sidebar)
+- Footer  
+  The element defines a footer for a document or section.
+
+## See the below example from the code
+
+html
+```
 <nav>
     <ul>
         <li>
@@ -29,7 +34,37 @@ html
         </li>
     </ul>
 </nav>
- ```       
+```
+```
+<article>
+    <h2>Online Reputation Management</h2>
+    <p>
+        The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business. Online Reputation Management gives you the control over what potential customers see when they search for your business.
+    </p>
+</article>  
+```
+
 ## Links  
 My favorite search engine is [ Google ] (https://www.google.com/)
+## License
+MIT License
 
+Copyright (c) [ 2022] [Asha Chakre]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
